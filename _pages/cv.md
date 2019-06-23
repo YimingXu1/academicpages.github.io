@@ -21,16 +21,15 @@ Work experience
 ======
 * 2015.08 - : Research Intern
   * Institute of Information Engineering, Chinese Academy of Sciences 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Cross-modal Information Retrieval
+  * Supervisor: Dr. Jing Yu and Prof. Yanbing Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Language: Python / Matlab / C++ / C# / Java
+* Deep Learning Framework: 
+  * Tensorflow
+  * Pytorch
 * Skill 3
 
 Publications
