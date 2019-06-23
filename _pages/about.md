@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiming Xu"
+title: "Yiming Xu, 徐义明"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
