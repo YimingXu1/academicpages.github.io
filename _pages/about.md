@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Intern at Institute of Information Engineering,Chinese Academy of Sciences under the supervision of Dr. [Jing Yu](http://people.ucas.edu.cn/~jingyu). My research interests lie in the field of natural language processing, computer vision and machine learning. In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
+I am a Research Intern at Institute of Information Engineering, Chinese Academy of Sciences under the supervision of Dr. [Jing Yu](http://people.ucas.edu.cn/~jingyu). My research interests lie in the field of natural language processing, computer vision and machine learning. In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
 
 A data-driven personal website
 ======
