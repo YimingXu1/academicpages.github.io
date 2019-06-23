@@ -2,7 +2,6 @@
 title: "Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 author: '**Yiming Xu**, Jing Yu1,2(B), Jingjing Guo1,2, Yue Hu1(B), and Jianlong Tan'
 date: 2019-06-13
 venue: 'ICCS'
