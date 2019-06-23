@@ -85,7 +85,8 @@ author:
   bio              : "Received B.S. from Henan University (2019)"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  Zhihu            : "https://www.zhihu.com/people/xu-yi-ming-82/activities"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "yiming.tsui@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
