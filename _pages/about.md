@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Intern at Institute of Information Engineering,Chinese Academy of Sciences under the supervision of Dr.[Jing Yu] (http://people.ucas.edu.cn/~jingyu). My research interests lie in the field of natural language processing, computer vision and machine learning. In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. 
+I am a Research Intern at Institute of Information Engineering,Chinese Academy of Sciences under the supervision of Dr.[Jing Yu](http://people.ucas.edu.cn/~jingyu). My research interests lie in the field of natural language processing, computer vision and machine learning. In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
 
 A data-driven personal website
 ======
