@@ -26,11 +26,20 @@ Work experience
   
 Skills
 ======
-* Language: Python / Matlab / C++ / C# / Java
+* Language: 
+  * Python 
+  * Matlab  
+  * C++  
+  * C# 
+  * Java
 * Deep Learning Framework: 
   * Tensorflow
   * Pytorch
-* Skill 3
+* Tools
+  * Pycharm
+  * Eclipse
+  * Ubuntu
+  * MacOC
 
 Publications
 ======
