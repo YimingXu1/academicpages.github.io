@@ -2,7 +2,7 @@
 title: "Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification"
 collection: publications
 permalink: /publication/PR
-author: 'Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**'
+author: 'Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**.'
 excerpt: ''
 
 date: 2018-03-10

@@ -2,7 +2,7 @@
 title: "Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval"
 collection: publications
 permalink: /publication/FG-CMIR
-author: '**Yiming Xu**, Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan'
+author: '**Yiming Xu**, Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.'
 excerpt: 'This paper is about Hard Examples Mining of Cross-modal Information Retrieval. Accepted for oral presentation'
 
 date: 2019-06-13
