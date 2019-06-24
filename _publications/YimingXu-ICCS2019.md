@@ -5,7 +5,7 @@ permalink: /publication/FG-CMIR
 excerpt: 'This paper is about Hard Examples Mining of Cross-modal Information Retrieval. Accepted for oral presentation'
 date: 2019-06-13
 venue: 'ICCS'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22'
+paperurl: 'https://YimingXu1.github.io/files/paper1.pdf'
 author: '**Yiming Xu**, Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.'
 ---
 Cross-modal information retrieval aims to search for semantically relevant data from various modalities when given a query from
