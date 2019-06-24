@@ -2,14 +2,11 @@
 title: "Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval"
 collection: publications
 permalink: /publication/FG-CMIR
-author: '**Yiming Xu**, Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.'
 excerpt: 'This paper is about Hard Examples Mining of Cross-modal Information Retrieval. Accepted for oral presentation'
-
 date: 2019-06-13
 venue: 'ICCS'
-
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22'
-
+author: '**Yiming Xu**, Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.'
 ---
 Cross-modal information retrieval aims to search for semantically relevant data from various modalities when given a query from
 one modality. For text-image retrieval, a common solution is to map texts and images into a common semantic space and measure 
