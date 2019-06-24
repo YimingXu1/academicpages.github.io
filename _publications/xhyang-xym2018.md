@@ -3,7 +3,7 @@ title: "Low Rank Variation Dictionary and Inverse Projection Group Sparse Repres
 collection: publications
 permalink: /publication/PR
 author: 'Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**’
-excerpt: 
+excerpt: ''
 
 date: 2018-03-10
 venue: 'arXiv preprint'
@@ -16,6 +16,3 @@ Sparse representation classification achieves good results by addressing recogni
 [Download paper here][2]
 
 Yang X , Jiang X , Wu W , et al. Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification[J](). 2018.
-
-[1]:	https://arxiv.org/abs/1803.04793
-[2]:	https://arxiv.org/abs/1803.04793
