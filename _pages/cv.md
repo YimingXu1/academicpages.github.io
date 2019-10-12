@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2015.08 - : Research Intern
+* 2018.08 - : Research Intern
   * Institute of Information Engineering, Chinese Academy of Sciences 
   * Duties included: Cross-modal Information Retrieval
   * Supervisor: Dr. Jing Yu and Prof. Yanbing Liu
