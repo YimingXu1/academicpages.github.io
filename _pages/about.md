@@ -19,6 +19,12 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
   * Overall GPA: 85.38/ 100
   * Major GPA: 89.21/100
 
+## Work experience
+* 2018.08 - : Research Intern
+  * Institute of Information Engineering, Chinese Academy of Sciences 
+  * Duties included: Cross-modal Information Retrieval
+  * Supervisor: Dr. Jing Yu and Prof. Yanbing Liu
+
 ## Publications
 
 ### Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval
