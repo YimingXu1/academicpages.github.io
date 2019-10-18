@@ -22,7 +22,7 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
 ## Work experience
 * 2018.08 - : Research Intern
   * Institute of Information Engineering, Chinese Academy of Sciences 
-  * Duties included: Cross-modal Information Retrieval
+  * Duties included: Cross-modal Information Retrieval & Multimodal Dialog
   * Supervisor: Dr. Jing Yu and Prof. Yanbing Liu
 
 ## Publications
