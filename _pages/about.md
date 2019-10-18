@@ -12,6 +12,14 @@ I am a Research Intern at Institute of Information Engineering, Chinese Academy 
 My research interests lie in the field of natural language processing, computer vision and machine learning. 
 In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
 
+Education
+======
+* Henan University [09/2015 - 06/2019]
+  * Bachelor of Engineering
+  * Major in Computer Science and Technology
+  * Overall GPA: 85.38/ 100
+  * Major GPA: 89.21/100
+
 ## Publications
 
 ### Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval
