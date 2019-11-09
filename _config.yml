@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "baidu.com"
 wechat :
   username               : 
 facebook:
@@ -114,7 +114,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "baidu.com"
   xing             :
   youtube          :
   wikipedia        :
