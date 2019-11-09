@@ -58,8 +58,6 @@ yandex_site_verification :
 # Social Sharing
 twitter: 
   username               : 
-weibo :
-  username               : 
 facebook:
   username               :
   app_id                 :
@@ -88,7 +86,6 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  zhihu            : "https://www.zhihu.com/people/xu-yi-ming-82/activities"
   googlescholar    : "http://baidu.com"
   email            : "yiming.tsui@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
