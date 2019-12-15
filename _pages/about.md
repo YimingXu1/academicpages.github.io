@@ -13,12 +13,12 @@ My research interests lie in the field of natural language processing, computer 
 
 In particular, I tackle challenges of hard examples mining in Cross-modal Information Retrieval, where the goal is to increase the influence of hard examples on the similarity learning to improve the retrieval performance.
 
-## Education
+<!-- ## Education
 * Henan University [09/2015 - 06/2019]
   * Bachelor of Engineering
   * Major in Computer Science and Technology
   * Overall GPA: 85.38/ 100
-  * Major GPA: 89.21/100
+  * Major GPA: 89.21/100 --!>
 
 ## Work experience
 * 2018.08 - : Research Intern
