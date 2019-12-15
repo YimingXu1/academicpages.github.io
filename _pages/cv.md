@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Henan University [09/2015 - 06/2019]
   * Bachelor of Engineering
   * Major in Computer Science and Technology
   * Overall GPA: 85.38/ 100
-  * Major GPA: 89.21/100
+  * Major GPA: 89.21/100 --!>
 
 Work experience
 ======
