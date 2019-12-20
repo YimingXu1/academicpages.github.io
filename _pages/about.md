@@ -30,8 +30,8 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
 
 ### Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval
 **Yiming Xu** , Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.
-Published in ICCS, 2019
-[paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
+ Published in ICCS, 2019
+ [paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
 
 --------------------------------------------------------------
 
