@@ -36,4 +36,5 @@ Published in ICCS, 2019
 --------------------------------------------------------------
 
 ### Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification
-Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**. [paper](https://arxiv.org/abs/1803.04793)
+Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**.  
+[paper](https://arxiv.org/abs/1803.04793)
