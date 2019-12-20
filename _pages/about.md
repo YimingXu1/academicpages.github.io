@@ -18,7 +18,7 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
   * Bachelor of Engineering
   * Major in Computer Science and Technology
   * Overall GPA: 85.38/ 100
-  * Major GPA: 89.21/100 --!>
+  * Major GPA: 89.21/100 -->
 
 ## Work experience
 * 2018.08 - : Research Intern
@@ -29,12 +29,11 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
 ## Research
 
 ### Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval
-Published in ICCS, 2019
 **Yiming Xu** , Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.
+Published in ICCS, 2019
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
 
 --------------------------------------------------------------
-
 
 ### Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification
 Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**.
