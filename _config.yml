@@ -6,15 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-
+  
+# remote_theme             : "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Yiming Xu"
 title_separator          : "-"
 name                     : &name "Yiming Xu"
-description              : &description "Research Intern in IIE,CAS"
+description              : &description ""
 url                      : https://YimingXu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YimingXu1/YimingXu1.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,8 +59,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: "baidu.com"
-  username               : 
+twitter:
+  username               : &twitter
+unsplash:
+  username               : &unsplash
 facebook:
   username               :
   app_id                 :
@@ -76,20 +80,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-149364194-1"
 
 
 # Site Author
 author:
   name             : "Yiming Xu"
-  avatar           : "profile.png"
-  bio              : "Received B.S. from Henan University (2019)"
-  location         : "Beijing, China"
+  avatar           : 
+  bio              : "I am looking for a research internship in 2020 Summer and preparing my PhD application for 2021 Fall. "
+  location         : "Beijing, CN"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://baidu.com"
-  email            : "yiming.tsui@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "xuyiming [at] henu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,25 +101,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YimingXu1"
+  github           : "yimingxu1"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : ""
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  unsplash         :
 
 
 # Reading Files
@@ -147,6 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # - assets
 keep_files:
   - .git
   - .svn
@@ -266,6 +272,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  # - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
