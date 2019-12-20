@@ -29,12 +29,11 @@ In particular, I tackle challenges of hard examples mining in Cross-modal Inform
 ## Research
 
 ### Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval
-**Yiming Xu** , Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.
- Published in ICCS, 2019
- [paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
+**Yiming Xu** , Jing Yu, Jingjing Guo, Yue Hu, and Jianlong Tan.  
+Published in ICCS, 2019  
+[paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
 
 --------------------------------------------------------------
 
 ### Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification
-Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**.
-[paper](https://arxiv.org/abs/1803.04793)
+Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**. [paper](https://arxiv.org/abs/1803.04793)
