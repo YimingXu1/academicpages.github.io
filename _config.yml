@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Yiming Xu"
 title_separator          : "-"
 name                     : &name "Yiming Xu"
-description              : &description ""
+description              : &description "Research Intern in IIE,CA"
 url                      : https://YimingXu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Yiming Xu"
   avatar           : 
-  bio              : "I am looking for a research internship in 2020 Summer and preparing my PhD application for 2021 Fall. "
-  location         : "Beijing, CN"
+  bio              : "Received B.S. from Henan University (2019)"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
