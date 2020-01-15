@@ -2,48 +2,13 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: True
+author_profile: true
 redirect_from:
-  - /resume
+- /cv
 ---
-
-{% include base_path %}
-
-<!-- Education
-======
-* Henan University [09/2015 - 06/2019]
-  * Bachelor of Engineering
-  * Major in Computer Science and Technology
-  * Overall GPA: 85.38/ 100
-  * Major GPA: 89.21/100 --!>
-
-Work experience
-======
-* 2018.08 - : Research Intern
-  * Institute of Information Engineering, Chinese Academy of Sciences 
-  * Duties included: Cross-modal Information Retrieval
-  * Supervisor: Dr. Jing Yu and Prof. Yanbing Liu
-  
-Skills
-======
-* Language: 
-  * Python 
-  * Matlab  
-  * C++  
-  * C# 
-  * Java
-* Deep Learning Framework: 
-  * Tensorflow
-  * Pytorch
-* Tools
-  * Pycharm
-  * Eclipse
-  * Ubuntu
-  * MacOC
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+[Link for Download](https://YimingXu1.github.io/files/CV.pdf)
+<object data="https://yzhq97.github.io/files/CV.pdf" style="width: 100%; max-width: 800px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" type="application/pdf" height="700">
+<embed src="https://yzhq97.github.io/files/CV.pdf">
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://yzhq97.github.io/files/CV.pdf">Download PDF</a>.</p>
+</embed>
+</object>
