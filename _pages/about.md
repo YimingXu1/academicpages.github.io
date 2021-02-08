@@ -35,8 +35,7 @@ Published in ICCS, 2019
 
 --------------------------------------------------------------
 ### Stable and Compact Face Recognition via Unlabeled Data Driven Sparse Representation-Based Classification
-Xiaohui Yang, Zheng Wang, Huan Wu, Licheng Jiao, **Yiming Xu**, Haolin Chen.
-
+Xiaohui Yang, Zheng Wang, Huan Wu, Licheng Jiao, **Yiming Xu**, Haolin Chen.  
 Under Review in Signal Processing: Image Communication
 
 --------------------------------------------------------------
