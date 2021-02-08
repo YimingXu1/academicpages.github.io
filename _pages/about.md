@@ -34,7 +34,11 @@ Published in ICCS, 2019
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-22741-8_22)
 
 --------------------------------------------------------------
+### Stable and Compact Face Recognition via Unlabeled Data Driven Sparse Representation-Based Classification
+Xiaohui Yang, Zheng Wang, Huan Wu, Licheng Jiao, **Yiming Xu**, Haolin Chen.
+Under Review in Signal Processing: Image Communication
 
+--------------------------------------------------------------
 ### Low Rank Variation Dictionary and Inverse Projection Group Sparse Representation Model for Breast Tumor Classification
 Xiaohui Yang, Xiaoying Jiang, Wenming Wu, Juan Zhang, Dan Long, Funa Zhou, **Yiming Xu**.  
 [paper](https://arxiv.org/abs/1803.04793)
