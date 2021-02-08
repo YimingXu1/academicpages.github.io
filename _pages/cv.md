@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV_YMXU/
+permalink: /cv/
 author_profile: true
 redirect_from:
-- /CV_YMXU
+- /cv
 ---
 [Link for Download](https://YimingXu1.github.io/files/CV_YMXU.pdf)
 <object data="https://YimingXu1.github.io/files/CV_YMXU.pdf" style="width: 100%; max-width: 800px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" type="application/pdf" height="700">
