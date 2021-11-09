@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-  
+
 # remote_theme             : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
@@ -16,7 +16,7 @@ name                     : &name "Yiming Xu"
 description              : &description "Research Intern in IIE,CAS"
 url                      : https://YimingXu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -90,10 +90,10 @@ author:
   bio              : "MSc DataAI in Institut polytechnique de Paris"
   location         : "Beijing, China"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "xuyiming [at] henu.edu.cn"
-  researchgate     : 
+  pubmed           :
+  googlescholar    :
+  email            : "xuyiming [at] sudent.vu.nl"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
